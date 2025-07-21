@@ -12,7 +12,7 @@
 ## 🧠 Certifications:
 ### 🎓 AZ-900: Microsoft Azure Fundamentals  
 [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/PratikshaDube-7308/E6FE09CD05CE3FD?sharingId=38119709F5B48373)  
-<img src="https://learn.microsoft.com/api/credentials/share/en-us/PratikshaDube-7308/E6FE09CD05CE3FD?sharingId=38119709F5B48373" width="150"/>
+<img src="https://github.com/dubepratiksha/dubepratiksha/blob/main/Az-900.png" width="200"/>
 
 ---
 
