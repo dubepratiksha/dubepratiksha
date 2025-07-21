@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎯Aspiring AWS Cloud Developer | System Administrator at TCS<br>👩‍💻I’m currently working at  Tata Consultancy Services as a System Administrator.<br>🤝  I’m currently working on project Tata Capital Finance. I have hands-on experience with:<br>- 🔐 Zscaler Administration<br>- ☁️ Azure Active Directory<br>- 🌐 Proxy Configuration & Monitoring<br>- 📧 Microsoft Office 365 (O365)<br><br>🌱 Despite my current role being more on the infrastructure side, my passion lies in Cloud Development, particularly with AWS. I am actively learning and building skills to transition into a Cloud Developer role.<br><br>
+### 🎯Aspiring AWS Cloud Developer | System Administrator at TCS<br>
+👩‍💻I’m currently working at  Tata Consultancy Services as a System Administrator.<br>🤝  I’m currently working on project Tata Capital Finance. I have hands-on experience with:<br>- 🔐 Zscaler Administration<br>- ☁️ Azure Active Directory<br>- 🌐 Proxy Configuration & Monitoring<br>- 📧 Microsoft Office 365 (O365)<br><br>🌱 Despite my current role being more on the infrastructure side, my passion lies in Cloud Development, particularly with AWS. I am actively learning and building skills to transition into a Cloud Developer role.<br><br>
 
 🚀 **Goals**<br>
 - 💡 Build and deploy real-world cloud projects on AWS  <br>
