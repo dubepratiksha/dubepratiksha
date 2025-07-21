@@ -18,7 +18,7 @@
 
 ### 🎓 MS-900: Microsoft 365 Fundamentals  
 [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/PratikshaDube-7308/CB0EE92C5F845658?sharingId=38119709F5B48373)  
-<img src="https://learn.microsoft.com/api/credentials/share/en-us/PratikshaDube-7308/CB0EE92C5F845658?sharingId=38119709F5B48373" width="150"/>
+<img src="https://github.com/dubepratiksha/dubepratiksha/blob/main/ms-900.png" width="200"/>
 
 ---
 
